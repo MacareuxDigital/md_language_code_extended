@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<concrete5-cif version="1.0">
+    <singlepages>
+        <page name="System Languages"
+              path="/dashboard/system/multilingual/system_languages"
+              filename="/dashboard/system/multilingual/system_languages.php"
+              pagetype=""
+              description=""
+              package="md_language_code_extended"/>
+        <page name="System Countries"
+              path="/dashboard/system/multilingual/system_countries"
+              filename="/dashboard/system/multilingual/system_countries.php"
+              pagetype=""
+              description=""
+              package="md_language_code_extended"/>
+    </singlepages>
+</concrete5-cif>
